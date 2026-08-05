@@ -195,6 +195,13 @@ header .profileHeader p {
 	mask-image: url("../icons/github.svg");
 }
 
+.icon-gitlab {
+	-webkit-mask-image: url("../icons/gitlab.svg");
+	-webkit-mask-size: 170%;
+	mask-image: url("../icons/gitlab.svg");
+	mask-size: 170%;
+}
+
 .icon-linkedin {
 	-webkit-mask-image: url("../icons/linkedin.svg");
 	mask-image: url("../icons/linkedin.svg");
