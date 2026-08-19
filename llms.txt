@@ -1,0 +1,49 @@
+# Mugahed Izzeldin portfolio
+
+> PhD Candidate in Computer Science conducting systems research in cloud computing, mobile core networks, and reproducible infrastructure. Author of peer-reviewed and under-review publications spanning 5G core performance, reproducible systems, mobile roaming, and trusted execution environments. Owner and maintainer of NixCore, an open-source reproducible mobile network core framework. Experienced in designing and evaluating systems end-to-end: from implementation and experimentation through publication, documentation, and cross-layer debugging. Strong foundation in Linux, Nix/NixOS, Kubernetes, distributed systems, and production networking across 2G through 5G.
+
+## Purpose
+
+This website presents a professional portfolio for a systems researcher and systems engineer focused on cloud computing, mobile core networks, reproducible infrastructure, distributed systems, and production networking.
+
+## Core Technical Focus
+
+The site emphasizes end-to-end systems work: designing, implementing, deploying, evaluating, debugging, documenting, and publishing research software and infrastructure. Key areas include reproducible mobile network cores, cloud-native infrastructure, experimental cloud platforms, mobile roaming, trusted execution environments, and 4G/5G core performance.
+
+## Technical Skills
+
+Systems: Linux, Nix/NixOS, reproducible infrastructure, distributed systems, mobile network core, Raft consensus, and key-value stores.
+
+Cloud and Infrastructure: Kubernetes, Docker, Helm, Ansible, and multi-tenant cloud operations.
+
+Networking: 5G Core (5GC), 4G Core (EPC), MP-BGP, BGP, OSPF, MPLS, L2/L3 switching and routing, TCP/IP, QoS, IPsec, and VPNs.
+
+Programming: C, Go, Python, Shplait, JavaScript, HTML, and CSS.
+
+Tools and Operations: Git, CI/CD, monitoring, production troubleshooting, and technical documentation.
+
+Databases: PostgreSQL, MySQL, and MongoDB.
+
+## Research And Engineering Experience
+
+The website describes systems research in cloud computing, mobile networks, reproducible infrastructure, and networked systems. It also covers work on mobile core research infrastructure using Kubernetes, Nix/NixOS, containerized network components, and large-scale experimental cloud environments.
+
+Industry experience includes private 5G network research, commercial 5G core performance evaluation, LTE core operations, Packet core troubleshooting, IP networking, transmission operations, Packet core planning, service KPI analysis, and production network optimization.
+
+## Projects
+
+NixCore is presented as a reproducible mobile network core framework for deploying, configuring, and evaluating 4G/5G core components with Nix/NixOS, Kubernetes, and declarative infrastructure. The project supports repeatable research environments, reduces deployment drift, and improves reproducibility and debuggability for Packet core experimentation.
+
+Other highlighted projects include maintaining the `pomo` package in Nixpkgs, maintaining the Arabic version of MIT's Missing Semester course website, implementing a Raft-based key-value store, and designing production network services across ISP and Packet core environments.
+
+## Publications And Research Themes
+
+The publication themes include mobile roaming, reproducible mobile network cores, commercial 5G core performance in private network deployments, trusted execution for 5G core systems, SMS encryption and account verification, and SDN for campus network access control.
+
+## Website Structure
+
+Primary sections include Technical Skills, Work Experience, Selected Systems and Open-Source Projects, Education, Selected Publications, and Professional Development and Service.
+
+## Exclusions
+
+This file intentionally omits personal contact details, addresses, social media handles, profile images, and other non-technical personal information.
